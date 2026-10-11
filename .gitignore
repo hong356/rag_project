@@ -1,0 +1,17 @@
+# 环境变量
+.env
+# 向量库文件
+./vector_db/
+# python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# 日志
+logs/
+*.log
+# 虚拟环境
+.venv/
+venv/
+# pytest
+.pytest_cache/

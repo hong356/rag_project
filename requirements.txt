@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+httpx
+faiss-cpu
+numpy
+jieba
+pypdf
+pytest
+slowapi
+limits
